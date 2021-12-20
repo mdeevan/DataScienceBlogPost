@@ -1,10 +1,10 @@
 # DataScienceBlogPost
 Udacity - Data Science Blog Post - Project
 
-# Project Introduction:
+# Project Introduction:  
 
-from project requirements
-The project is to select any publically available data set, understand the data and the domain, then answer 3-6 different question related to the data set.   
+The project is to select any publically available data set, understand the data and the domain, then answer 3-6 different question related to the data set.    
+
 I choose airbnb - Boston dataset, which is available on Kaggle, which AirBnB has made public of its rental properties in and around Boston, MA neighborhoods, along with the reviews left by the guests and the dates when properties were available. In this blog we review this data to learn about the neighborhood and attempts to understand what types of properties are available, their prices, concentration of these listing, number of reviews and lastly how guests described the properties after their stay.
 
 # Libraries used  

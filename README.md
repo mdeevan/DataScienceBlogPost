@@ -1,7 +1,7 @@
 # DataScienceBlogPost
 Udacity - Data Science Blog Post - Project
 
-Project Introduction:
+# Project Introduction:
 
 from project requirements
 The project is to select any publically available data set, understand the data and the domain, then answer 3-6 different question related to the data set.   
@@ -177,15 +177,15 @@ Most of the reviews are positive, although we don’t these classified as positi
 
 # Acknowledgements  
 https://udacity.com : Extra curricular - Data Visualization, apart from the classroom material  
-https://scikit-learn.org  : for text processing  
+https://scikit-learn.org  : for text processing reference  
 https://pandas.pydata.org/ : for data processing reference   
 https://seaborn.pydata.org/ : for visuals and parameters reference  
 https://matplotlib.org/  : for visuals and parameters reference  
 https://numpy.org/ : for reference  
 www.stackoverflow.com : Used to resolve the coding issues  
 www.statology.org  : to understanding some concepts  
-https://www.nltk.org/howto/tokenize.html : Text Processing   
-https://pythonexamples.org/nltk-pos-tagging/ : POS tagging  
+https://www.nltk.org/howto/tokenize.html : Text Processing reference  
+https://pythonexamples.org/nltk-pos-tagging/ : POS tagging reference   
 https://medium.com : for articles to develop/clear concept/understanding of the topic  
 https://towardsdatascience.com : for articles to develop/clear understanding of the topic 
 
